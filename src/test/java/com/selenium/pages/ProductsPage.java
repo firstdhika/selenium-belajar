@@ -1,6 +1,7 @@
 package com.selenium.pages;
 
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.By;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
@@ -25,4 +26,10 @@ public class ProductsPage extends BasePage {
     public void goToCart() {
         wait.until(ExpectedConditions.elementToBeClickable(cartIcon)).click();
     }
+    public void sortBy(String option) {
+        WebElement dropdown = wait.until(ExpectedConditions.elementToBeClickable(
+            By.className("product_sort_container")
+        ));
+    new org.openqa.selenium.support.ui.Select(dropdown).selectByValue(option);
+}
 }
