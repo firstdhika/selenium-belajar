@@ -1,6 +1,7 @@
-com/selenium/pages/CheckoutPage.class
 com/selenium/pages/BasePage.class
 com/selenium/pages/ProductsPage.class
-com/selenium/pages/LoginPage.class
-com/selenium/LoginTest.class
 com/selenium/pages/CartPage.class
+com/selenium/pages/CheckoutPage.class
+com/selenium/pages/LoginPage.class
+com/selenium/TestListener.class
+com/selenium/LoginTest.class

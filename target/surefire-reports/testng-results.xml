@@ -2,260 +2,260 @@
 <testng-results ignored="0" total="21" passed="21" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-05-19T15:22:41 WIB" name="Surefire suite" finished-at="2026-05-19T15:23:41 WIB" duration-ms="60242">
+  <suite started-at="2026-05-19T16:15:57 WIB" name="Surefire suite" finished-at="2026-05-19T16:16:39 WIB" duration-ms="42548">
     <groups>
     </groups>
-    <test started-at="2026-05-19T15:22:41 WIB" name="Surefire test" finished-at="2026-05-19T15:23:41 WIB" duration-ms="60242">
+    <test started-at="2026-05-19T16:15:57 WIB" name="Surefire test" finished-at="2026-05-19T16:16:39 WIB" duration-ms="42548">
       <class name="com.selenium.LoginTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:22:41 WIB" name="setup" finished-at="2026-05-19T15:22:49 WIB" duration-ms="8402" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:15:57 WIB" name="setup" finished-at="2026-05-19T16:15:59 WIB" duration-ms="2443" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testAddToCart()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:22:49 WIB" name="testAddToCart" finished-at="2026-05-19T15:22:50 WIB" duration-ms="214" status="PASS">
+        <test-method signature="testAddToCart()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:15:59 WIB" name="testAddToCart" finished-at="2026-05-19T16:15:59 WIB" duration-ms="337" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAddToCart -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:22:50 WIB" name="teardown" finished-at="2026-05-19T15:22:50 WIB" duration-ms="90" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:15:59 WIB" name="teardown" finished-at="2026-05-19T16:16:00 WIB" duration-ms="86" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:22:50 WIB" name="setup" finished-at="2026-05-19T15:22:52 WIB" duration-ms="1997" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:00 WIB" name="setup" finished-at="2026-05-19T16:16:01 WIB" duration-ms="1745" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testCancelDiCheckout()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:22:52 WIB" name="testCancelDiCheckout" finished-at="2026-05-19T15:22:52 WIB" duration-ms="264" status="PASS">
+        <test-method signature="testCancelDiCheckout()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:01 WIB" name="testCancelDiCheckout" finished-at="2026-05-19T16:16:02 WIB" duration-ms="350" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCancelDiCheckout -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:22:52 WIB" name="teardown" finished-at="2026-05-19T15:22:52 WIB" duration-ms="83" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:02 WIB" name="teardown" finished-at="2026-05-19T16:16:02 WIB" duration-ms="81" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:22:52 WIB" name="setup" finished-at="2026-05-19T15:22:54 WIB" duration-ms="2390" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:02 WIB" name="setup" finished-at="2026-05-19T16:16:03 WIB" duration-ms="1187" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testCancelDiOverview()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:22:54 WIB" name="testCancelDiOverview" finished-at="2026-05-19T15:22:55 WIB" duration-ms="391" status="PASS">
+        <test-method signature="testCancelDiOverview()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:03 WIB" name="testCancelDiOverview" finished-at="2026-05-19T16:16:03 WIB" duration-ms="442" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCancelDiOverview -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:22:55 WIB" name="teardown" finished-at="2026-05-19T15:22:55 WIB" duration-ms="85" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:03 WIB" name="teardown" finished-at="2026-05-19T16:16:03 WIB" duration-ms="83" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:22:55 WIB" name="setup" finished-at="2026-05-19T15:22:57 WIB" duration-ms="2042" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:03 WIB" name="setup" finished-at="2026-05-19T16:16:05 WIB" duration-ms="1587" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testCartBadgeBertambah()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:22:57 WIB" name="testCartBadgeBertambah" finished-at="2026-05-19T15:22:57 WIB" duration-ms="197" status="PASS">
+        <test-method signature="testCartBadgeBertambah()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:05 WIB" name="testCartBadgeBertambah" finished-at="2026-05-19T16:16:05 WIB" duration-ms="289" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCartBadgeBertambah -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:22:57 WIB" name="teardown" finished-at="2026-05-19T15:22:57 WIB" duration-ms="80" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:05 WIB" name="teardown" finished-at="2026-05-19T16:16:05 WIB" duration-ms="83" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:22:57 WIB" name="setup" finished-at="2026-05-19T15:22:59 WIB" duration-ms="2094" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:05 WIB" name="setup" finished-at="2026-05-19T16:16:07 WIB" duration-ms="1692" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testCekTotalHargaOverview()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:22:59 WIB" name="testCekTotalHargaOverview" finished-at="2026-05-19T15:23:00 WIB" duration-ms="365" status="PASS">
+        <test-method signature="testCekTotalHargaOverview()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:07 WIB" name="testCekTotalHargaOverview" finished-at="2026-05-19T16:16:07 WIB" duration-ms="411" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCekTotalHargaOverview -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:00 WIB" name="teardown" finished-at="2026-05-19T15:23:00 WIB" duration-ms="83" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:07 WIB" name="teardown" finished-at="2026-05-19T16:16:08 WIB" duration-ms="82" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:00 WIB" name="setup" finished-at="2026-05-19T15:23:01 WIB" duration-ms="1399" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:08 WIB" name="setup" finished-at="2026-05-19T16:16:09 WIB" duration-ms="1664" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testCheckout()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:01 WIB" name="testCheckout" finished-at="2026-05-19T15:23:03 WIB" duration-ms="1403" status="PASS">
+        <test-method signature="testCheckout()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:09 WIB" name="testCheckout" finished-at="2026-05-19T16:16:10 WIB" duration-ms="444" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCheckout -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:03 WIB" name="teardown" finished-at="2026-05-19T15:23:03 WIB" duration-ms="81" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:10 WIB" name="teardown" finished-at="2026-05-19T16:16:10 WIB" duration-ms="82" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:03 WIB" name="setup" finished-at="2026-05-19T15:23:05 WIB" duration-ms="2291" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:10 WIB" name="setup" finished-at="2026-05-19T16:16:12 WIB" duration-ms="2550" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testCheckoutTanpaForm()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:05 WIB" name="testCheckoutTanpaForm" finished-at="2026-05-19T15:23:05 WIB" duration-ms="290" status="PASS">
+        <test-method signature="testCheckoutTanpaForm()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:12 WIB" name="testCheckoutTanpaForm" finished-at="2026-05-19T16:16:13 WIB" duration-ms="333" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCheckoutTanpaForm -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:05 WIB" name="teardown" finished-at="2026-05-19T15:23:05 WIB" duration-ms="81" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:13 WIB" name="teardown" finished-at="2026-05-19T16:16:13 WIB" duration-ms="82" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:05 WIB" name="setup" finished-at="2026-05-19T15:23:07 WIB" duration-ms="1833" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:13 WIB" name="setup" finished-at="2026-05-19T16:16:14 WIB" duration-ms="1693" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testJumlahProduk()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:07 WIB" name="testJumlahProduk" finished-at="2026-05-19T15:23:07 WIB" duration-ms="159" status="PASS">
+        <test-method signature="testJumlahProduk()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:14 WIB" name="testJumlahProduk" finished-at="2026-05-19T16:16:15 WIB" duration-ms="240" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testJumlahProduk -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:07 WIB" name="teardown" finished-at="2026-05-19T15:23:07 WIB" duration-ms="82" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:15 WIB" name="teardown" finished-at="2026-05-19T16:16:15 WIB" duration-ms="81" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:07 WIB" name="setup" finished-at="2026-05-19T15:23:09 WIB" duration-ms="2081" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:15 WIB" name="setup" finished-at="2026-05-19T16:16:16 WIB" duration-ms="1320" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testLoginBerhasil()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:09 WIB" name="testLoginBerhasil" finished-at="2026-05-19T15:23:10 WIB" duration-ms="170" status="PASS">
+        <test-method signature="testLoginBerhasil()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:16 WIB" name="testLoginBerhasil" finished-at="2026-05-19T16:16:16 WIB" duration-ms="261" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginBerhasil -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:10 WIB" name="teardown" finished-at="2026-05-19T15:23:10 WIB" duration-ms="86" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:16 WIB" name="teardown" finished-at="2026-05-19T16:16:16 WIB" duration-ms="82" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:10 WIB" name="setup" finished-at="2026-05-19T15:23:12 WIB" duration-ms="2028" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:16 WIB" name="setup" finished-at="2026-05-19T16:16:18 WIB" duration-ms="1780" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testLoginKosong()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:12 WIB" name="testLoginKosong" finished-at="2026-05-19T15:23:12 WIB" duration-ms="103" status="PASS">
+        <test-method signature="testLoginKosong()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:18 WIB" name="testLoginKosong" finished-at="2026-05-19T16:16:18 WIB" duration-ms="132" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginKosong -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:12 WIB" name="teardown" finished-at="2026-05-19T15:23:12 WIB" duration-ms="115" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:18 WIB" name="teardown" finished-at="2026-05-19T16:16:18 WIB" duration-ms="80" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:12 WIB" name="setup" finished-at="2026-05-19T15:23:15 WIB" duration-ms="2607" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:18 WIB" name="setup" finished-at="2026-05-19T16:16:20 WIB" duration-ms="1324" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testLoginPasswordKosong()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:15 WIB" name="testLoginPasswordKosong" finished-at="2026-05-19T15:23:15 WIB" duration-ms="172" status="PASS">
+        <test-method signature="testLoginPasswordKosong()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:20 WIB" name="testLoginPasswordKosong" finished-at="2026-05-19T16:16:20 WIB" duration-ms="171" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginPasswordKosong -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:15 WIB" name="teardown" finished-at="2026-05-19T15:23:15 WIB" duration-ms="84" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:20 WIB" name="teardown" finished-at="2026-05-19T16:16:20 WIB" duration-ms="82" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:15 WIB" name="setup" finished-at="2026-05-19T15:23:17 WIB" duration-ms="2304" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:20 WIB" name="setup" finished-at="2026-05-19T16:16:21 WIB" duration-ms="1430" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testLoginPasswordSalah()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:17 WIB" name="testLoginPasswordSalah" finished-at="2026-05-19T15:23:17 WIB" duration-ms="155" status="PASS">
+        <test-method signature="testLoginPasswordSalah()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:21 WIB" name="testLoginPasswordSalah" finished-at="2026-05-19T16:16:22 WIB" duration-ms="159" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginPasswordSalah -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:17 WIB" name="teardown" finished-at="2026-05-19T15:23:17 WIB" duration-ms="83" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:22 WIB" name="teardown" finished-at="2026-05-19T16:16:22 WIB" duration-ms="82" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:17 WIB" name="setup" finished-at="2026-05-19T15:23:19 WIB" duration-ms="1995" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:22 WIB" name="setup" finished-at="2026-05-19T16:16:23 WIB" duration-ms="1602" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testLoginUsernameKosong()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:19 WIB" name="testLoginUsernameKosong" finished-at="2026-05-19T15:23:19 WIB" duration-ms="134" status="PASS">
+        <test-method signature="testLoginUsernameKosong()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:23 WIB" name="testLoginUsernameKosong" finished-at="2026-05-19T16:16:23 WIB" duration-ms="166" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginUsernameKosong -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:19 WIB" name="teardown" finished-at="2026-05-19T15:23:20 WIB" duration-ms="79" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:23 WIB" name="teardown" finished-at="2026-05-19T16:16:24 WIB" duration-ms="81" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:20 WIB" name="setup" finished-at="2026-05-19T15:23:22 WIB" duration-ms="2506" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:24 WIB" name="setup" finished-at="2026-05-19T16:16:26 WIB" duration-ms="1985" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testLoginUsernameSalah()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:22 WIB" name="testLoginUsernameSalah" finished-at="2026-05-19T15:23:22 WIB" duration-ms="160" status="PASS">
+        <test-method signature="testLoginUsernameSalah()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:26 WIB" name="testLoginUsernameSalah" finished-at="2026-05-19T16:16:26 WIB" duration-ms="157" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginUsernameSalah -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:22 WIB" name="teardown" finished-at="2026-05-19T15:23:22 WIB" duration-ms="93" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:26 WIB" name="teardown" finished-at="2026-05-19T16:16:26 WIB" duration-ms="83" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:22 WIB" name="setup" finished-at="2026-05-19T15:23:26 WIB" duration-ms="3473" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:26 WIB" name="setup" finished-at="2026-05-19T16:16:27 WIB" duration-ms="1529" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testLogout()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:26 WIB" name="testLogout" finished-at="2026-05-19T15:23:27 WIB" duration-ms="743" status="PASS">
+        <test-method signature="testLogout()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:27 WIB" name="testLogout" finished-at="2026-05-19T16:16:28 WIB" duration-ms="834" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogout -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:27 WIB" name="teardown" finished-at="2026-05-19T15:23:27 WIB" duration-ms="82" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:28 WIB" name="teardown" finished-at="2026-05-19T16:16:28 WIB" duration-ms="82" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:27 WIB" name="setup" finished-at="2026-05-19T15:23:29 WIB" duration-ms="2082" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:28 WIB" name="setup" finished-at="2026-05-19T16:16:30 WIB" duration-ms="1673" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testNamaProdukDiCart()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:29 WIB" name="testNamaProdukDiCart" finished-at="2026-05-19T15:23:29 WIB" duration-ms="215" status="PASS">
+        <test-method signature="testNamaProdukDiCart()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:30 WIB" name="testNamaProdukDiCart" finished-at="2026-05-19T16:16:30 WIB" duration-ms="505" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testNamaProdukDiCart -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:29 WIB" name="teardown" finished-at="2026-05-19T15:23:29 WIB" duration-ms="79" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:30 WIB" name="teardown" finished-at="2026-05-19T16:16:30 WIB" duration-ms="83" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:29 WIB" name="setup" finished-at="2026-05-19T15:23:31 WIB" duration-ms="2121" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:30 WIB" name="setup" finished-at="2026-05-19T16:16:32 WIB" duration-ms="1497" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testRemoveItemDariCart()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:31 WIB" name="testRemoveItemDariCart" finished-at="2026-05-19T15:23:31 WIB" duration-ms="233" status="PASS">
+        <test-method signature="testRemoveItemDariCart()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:32 WIB" name="testRemoveItemDariCart" finished-at="2026-05-19T16:16:32 WIB" duration-ms="332" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRemoveItemDariCart -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:31 WIB" name="teardown" finished-at="2026-05-19T15:23:31 WIB" duration-ms="85" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:32 WIB" name="teardown" finished-at="2026-05-19T16:16:32 WIB" duration-ms="84" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:31 WIB" name="setup" finished-at="2026-05-19T15:23:34 WIB" duration-ms="2427" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:32 WIB" name="setup" finished-at="2026-05-19T16:16:34 WIB" duration-ms="1218" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testSortHargaHighLow()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:34 WIB" name="testSortHargaHighLow" finished-at="2026-05-19T15:23:34 WIB" duration-ms="214" status="PASS">
+        <test-method signature="testSortHargaHighLow()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:34 WIB" name="testSortHargaHighLow" finished-at="2026-05-19T16:16:34 WIB" duration-ms="297" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSortHargaHighLow -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:34 WIB" name="teardown" finished-at="2026-05-19T15:23:34 WIB" duration-ms="84" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:34 WIB" name="teardown" finished-at="2026-05-19T16:16:34 WIB" duration-ms="83" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:34 WIB" name="setup" finished-at="2026-05-19T15:23:35 WIB" duration-ms="1212" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:34 WIB" name="setup" finished-at="2026-05-19T16:16:35 WIB" duration-ms="1227" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testSortHargaLowHigh()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:35 WIB" name="testSortHargaLowHigh" finished-at="2026-05-19T15:23:36 WIB" duration-ms="803" status="PASS">
+        <test-method signature="testSortHargaLowHigh()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:35 WIB" name="testSortHargaLowHigh" finished-at="2026-05-19T16:16:36 WIB" duration-ms="284" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSortHargaLowHigh -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:36 WIB" name="teardown" finished-at="2026-05-19T15:23:36 WIB" duration-ms="87" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:36 WIB" name="teardown" finished-at="2026-05-19T16:16:36 WIB" duration-ms="82" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:36 WIB" name="setup" finished-at="2026-05-19T15:23:39 WIB" duration-ms="2254" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:36 WIB" name="setup" finished-at="2026-05-19T16:16:37 WIB" duration-ms="1446" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testSortProdukAZ()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:39 WIB" name="testSortProdukAZ" finished-at="2026-05-19T15:23:39 WIB" duration-ms="176" status="PASS">
+        <test-method signature="testSortProdukAZ()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:37 WIB" name="testSortProdukAZ" finished-at="2026-05-19T16:16:37 WIB" duration-ms="281" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSortProdukAZ -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:39 WIB" name="teardown" finished-at="2026-05-19T15:23:39 WIB" duration-ms="83" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:37 WIB" name="teardown" finished-at="2026-05-19T16:16:37 WIB" duration-ms="84" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:39 WIB" name="setup" finished-at="2026-05-19T15:23:40 WIB" duration-ms="1272" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:37 WIB" name="setup" finished-at="2026-05-19T16:16:39 WIB" duration-ms="1366" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testSortProdukZA()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:40 WIB" name="testSortProdukZA" finished-at="2026-05-19T15:23:41 WIB" duration-ms="903" status="PASS">
+        <test-method signature="testSortProdukZA()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:39 WIB" name="testSortProdukZA" finished-at="2026-05-19T16:16:39 WIB" duration-ms="283" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSortProdukZA -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@4642b71d]" started-at="2026-05-19T15:23:41 WIB" name="teardown" finished-at="2026-05-19T15:23:41 WIB" duration-ms="87" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.selenium.LoginTest@591fd34d]" started-at="2026-05-19T16:16:39 WIB" name="teardown" finished-at="2026-05-19T16:16:39 WIB" duration-ms="83" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

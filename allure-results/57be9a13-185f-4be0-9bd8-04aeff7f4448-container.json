@@ -1,0 +1,1 @@
+{"uuid":"57be9a13-185f-4be0-9bd8-04aeff7f4448","name":"com.selenium.LoginTest.setup","children":["91194359-8a83-4439-b422-4d67988a2d34"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1779182180508,"stop":1779182181937}],"afters":[],"start":1779182180508,"stop":1779182181937}

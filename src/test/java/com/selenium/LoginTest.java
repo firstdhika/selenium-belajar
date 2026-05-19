@@ -16,7 +16,9 @@ import com.selenium.pages.CartPage;
 import com.selenium.pages.CheckoutPage;
 import java.time.Duration;
 import java.util.Map;
+import org.testng.annotations.Listeners;
 
+@Listeners(TestListener.class)
 public class LoginTest {
     WebDriver driver;
     LoginPage loginPage;
@@ -264,4 +266,11 @@ public class LoginTest {
         Assert.assertTrue(currentUrl.contains("saucedemo.com"));
         System.out.println("✅ Logout berhasil!");
     }
+    /*@Test
+    public void testSengajaGagal() {
+        loginPage.login("standard_user", "secret_sauce");
+        String title = productsPage.getPageTitle();
+        Assert.assertEquals(title, "Halaman Salah");
+        System.out.println("ini tidak akan terprint");
+    }*/
 }
