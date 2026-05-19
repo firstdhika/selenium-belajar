@@ -4,13 +4,9 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.By;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.openqa.selenium.support.ui.ExpectedConditions;
-import java.time.Duration;
 
-public class CheckoutPage {
-    WebDriver driver;
-    WebDriverWait wait;
+public class CheckoutPage extends BasePage {
 
     private By firstName = By.id("first-name");
     private By lastName = By.id("last-name");
@@ -20,8 +16,7 @@ public class CheckoutPage {
     private By successMessage = By.className("complete-header");
 
     public CheckoutPage(WebDriver driver) {
-        this.driver = driver;
-        this.wait = new WebDriverWait(driver, Duration.ofSeconds(15));
+        super(driver);
     }
 
     public void fillCheckoutInfo(String fName, String lName, String postal) {
