@@ -27,6 +27,9 @@ public class LoginTest {
     @BeforeMethod
     public void setup() {
         ChromeOptions options = new ChromeOptions();
+        options.addArguments("--headless");           // ← tambah ini
+        options.addArguments("--no-sandbox");         // ← tambah ini
+        options.addArguments("--disable-dev-shm-usage"); // ← tambah ini
         options.addArguments("--disable-notifications");
         options.addArguments("--disable-popup-blocking");
         options.setExperimentalOption("prefs", Map.of(
